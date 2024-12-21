@@ -12,3 +12,7 @@
 	- Closing and opening the Collapse Panels tab also adds these buttons to the main image of all panels that have a main image. You have to do it again for any newer main images you'd like to use the Make Similar x 2 and Save to favorites button on.
 
 	I modified some code from Patrice, Avidgamer, so I thank them and the makers of Easy Diffusion for make this possible.
+
+	Update 1.5.3
+ 	- Added a panel to adjust Prompt, Negative Prompt, Number of Images, in Parallel, Inference Guidance and Prompt Strength when using Make Similar Images x 2 button.
+	- Using the copy button will copy the Prompts from the main Prompts at the top of the UI.
